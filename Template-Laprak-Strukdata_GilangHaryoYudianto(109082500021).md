@@ -102,7 +102,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/Cupa0ng/C-_Basic/blob/main/Output_1/Outputaritmatika.png)
 
 Program ini menerima dua input bertipe float dan menampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian.
 
