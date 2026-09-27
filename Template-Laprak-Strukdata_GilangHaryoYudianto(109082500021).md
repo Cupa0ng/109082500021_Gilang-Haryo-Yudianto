@@ -23,53 +23,6 @@ Operator digunakan untuk melakukan suatu operasi atau manipulasi terhadap data, 
 
 #### 3. Struktur perulangan (for, while, do-while) digunakan untuk mengeksekusi sekumpulan pernyataan secara berulang selama kondisi masih terpenuhi.
 
-## Guided 
-
-### 1. Program Hello World & Input Output Dasar
-
-```C++
-#include <iostream>
-using namespace std;
-
-int main(){
-    cout << "saya lagi belajar bahasa c++ nih!!!" << endl;
-    return 0;
-}
-
-```
-Menggunakan perintah cout untuk menampilkan "saya lagi belajar bahasa c++ nih!!!" di c++.
-
-### 2. Menerima Input dan menampilkannya
-
-```C++
-#include <iostream>
-using namespace std;
-
-int main(){
-    int inp;
-    cin >> inp;
-    cout << "nilai =" << inp;
-    return 0;
-}
-```
-program dasar untuk menerima iniput dari user dan menampilkannya ke layar
-
-### 3. Aritmatika dasar
-
-```C++
-#include <iostream>
-using namespace std;
-
-int main() {
-    int W, X, Y; float Z;
-    X = 7; Y = 3; W = 1;
-    Z =(float) (X+Y) / (Y+W);
-    cout<< "Nilai X = "<< Z << endl;
-    return 0;
-}
-```
-menghitung hasil pembagian dari operasi aritmatika sederhana dan menampilkannya ke layar
-
 ## Unguided 
 
 ### 1. Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.
